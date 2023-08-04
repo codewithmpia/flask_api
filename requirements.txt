@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+flask-marshmallow
+Flask-RESTful
+Flask-SQLAlchemy
+marshmallow-sqlalchemy
+
